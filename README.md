@@ -6,7 +6,7 @@ This is the code repository for [Databricks Certified Associate Developer for Ap
 **The ultimate guide to getting certified in Apache Spark using practical examples with Python**
 
 ## What is this book about?
-With extensive data being collected every second, computing power cannot keep up with this pace of rapid growth. To make use of all the data, Spark has become a de facto standard for big data processing. Migrating data processing to Spark will not only help you save resources that will allow you to focus on your business, but also enable you to modernize your workloads by leveraging the capabilities of Spark and the modern technology stack for creating new business opportunities.
+This guide gets you ready for certification with expert-backed content, key exam concepts, and topic reviews. Additionally, you’ll be able to make the most of Apache Spark 3.0 to modernize workloads and more using specific tools and techniques.
 
 This book covers the following exciting features:
 * Create and manipulate SQL queries in Spark
@@ -47,5 +47,4 @@ With the following software and hardware list you can run all code files present
 * Azure Databricks Cookbook [[Packt]](https://www.packtpub.com/product/azure-databricks-cookbook/9781789809718) [[Amazon]](https://www.amazon.com/Azure-Databricks-Cookbook-Jonathan-Wood/dp/1789809711)
 
 ## Get to Know the Author
-**Saba Shah**is a Data and AI Architect and Evangelist with a wide technical breadth and deep understanding of big data and machine learning technologies. She has experience leading data science and data engineering teams in Fortune 500s as well as startups. She started her career as a software engineer but soon transitioned to big data. She is currently a solutions architect at Databricks and works with enterprises building their data strategy and helping them create a vision for the future with machine learning and predictive analytics. Saba graduated with a degree in Computer Science and later earned an MS degree in Advanced Web Technologies. She is passionate about all things data and cricket. She currently resides in RTP, NC.
-
+**Saba Shah** is a Data and AI Architect and Evangelist with a wide technical breadth and deep understanding of big data and machine learning technologies. She has experience leading data science and data engineering teams in Fortune 500s as well as startups. She started her career as a software engineer but soon transitioned to big data. She is currently a solutions architect at Databricks and works with enterprises building their data strategy and helping them create a vision for the future with machine learning and predictive analytics. Saba graduated with a degree in Computer Science and later earned an MS degree in Advanced Web Technologies. She is passionate about all things data and cricket. She currently resides in RTP, NC.
